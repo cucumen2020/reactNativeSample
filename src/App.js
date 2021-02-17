@@ -5,7 +5,9 @@ import Counter from './Counter';
 import Hello from './Hello';
 import InputSample from './InputSample';
 import MultiInputSample from './MultiInputSample';
+import UserList from './UserList';
 import Wrapper from './Wrapper';
+import UserListArray from './UserListArray';
 
 function App() {
   return (
@@ -22,7 +24,7 @@ function App() {
     {/* <InputSample/> */}
 
     <MultiInputSample/>
-
+    <UserListArray/>
   </>
   );
 }

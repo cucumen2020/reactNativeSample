@@ -15,3 +15,6 @@ const Users = [
         email:'liz@example.com'
     }
 ];
+
+
+export default Users;
